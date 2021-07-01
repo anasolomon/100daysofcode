@@ -10,4 +10,12 @@ Learning about Web Design: "Color Theory"; How different Typographies set differ
 2. ~ 30th of June 
 Making my own design on canva.com [https://www.canva.com/design/DAEiy2GrZoo/vg7DATZ0FsGPAjERXDl8bw/view?website#4].
 
-Going through JavaScript's foundamentals again: Alerts; //comments; Data types; Variables; 
+Going through JavaScript's foundamentals again: Alerts; //comments; Data types; Variables; Assigning Variables' data as a data type to another Variable;
+With Angela and Andrei's course on udemy + freecodecamp as the main resource.
+
+3. ~ 1st of July
+Data types in depth:
+Numbers (2,5,10) you can add them (ex.: N+N = B which will make the variable be equal to store B) same goes for: "-"; for multiplications the asterisk sign.
+You can increment a value by 1 simply by putting value++. 
+var myValue += 5;       var myValue -= 5;       var myValue *asterisk sign*= 5;       var myValue /= 5;    
+String -> var myValue = "words go here or leave empty";   //in case you are a masochist and want to use " inside the quotation marks of a string data type then put a \ before " so Javascript will ignore it and not end the value input.  
