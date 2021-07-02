@@ -19,3 +19,6 @@ Numbers (2,5,10) you can add them (ex.: N+N = B which will make the variable be 
 You can increment a value by 1 simply by putting value++. 
 var myValue += 5;       var myValue -= 5;       var myValue *asterisk sign*= 5;       var myValue /= 5;    
 String -> var myValue = "words go here or leave empty";   //in case you are a masochist and want to use " inside the quotation marks of a string data type then put a \ before " so Javascript will ignore it and not end the value input.  
+
+4. ~ 2nd of July
+Looking through C again
