@@ -14,7 +14,7 @@ Going through JavaScript's foundamentals again: Alerts; //comments; Data types; 
 With Angela and Andrei's course on udemy + freecodecamp as the main resource.
 
 3. ~ 1st of July
-4. 
+
 Data types in depth:
 Numbers (2,5,10) you can add them (ex.: N+N = B which will make the variable be equal to store B) same goes for: "-"; for multiplications the asterisk sign.
 You can increment a value by 1 simply by putting value++. 
