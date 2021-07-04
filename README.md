@@ -22,9 +22,12 @@ var myValue += 5;       var myValue -= 5;       var myValue *asterisk sign*= 5; 
 String -> var myValue = "words go here or leave empty";   //in case you are a masochist and want to use " inside the quotation marks of a string data type then put a \ before " so Javascript will ignore it and not end the value input.  
 
 4. ~ 2nd of July
+
 Looking through C again
 
 5. ~ 3rd of July
+
 int, float, char, double, void. Functions, variables. %f %c %s
 
 5. ~4th of July
+
