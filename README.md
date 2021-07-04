@@ -22,3 +22,8 @@ String -> var myValue = "words go here or leave empty";   //in case you are a ma
 
 4. ~ 2nd of July
 Looking through C again
+
+5. ~ 3rd of July
+int, float, char, double, void. Functions, variables. %f %c %s
+
+5. ~4th of July
