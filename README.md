@@ -40,5 +40,5 @@ MATH
 
 7. ~5th of July
 
-While, +=, -+, *=, /=. %d.
+While, +=, -+, *=, /=, %d, %.3f, %3d, \t,
 
