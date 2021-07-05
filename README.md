@@ -35,8 +35,10 @@ int, float, char, double, void. Functions, variables. %f %c %s
 
 
 6. ~4th of July
+
 MATH
 
 7. ~5th of July
+
 While, +=, -+, *=, /=. %d.
 
