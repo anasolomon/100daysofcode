@@ -42,3 +42,7 @@ MATH
 
 While, +=, -+, *=, /=, %d, %.3f, %3d, \t,
 
+8. ~6th of July
+For statements 
+
+
